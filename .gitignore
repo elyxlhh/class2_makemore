@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# Data files (often too large for git)
+*.csv
+*.tsv
+*.parquet
+*.h5
+*.pkl
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+
+# OS
+.DS_Store
+
+# VSCode
+.vscode/
